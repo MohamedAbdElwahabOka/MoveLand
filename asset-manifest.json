@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MoveLand%20/static/css/main.334bdeb1.css",
-    "main.js": "/MoveLand%20/static/js/main.303cda5a.js",
-    "index.html": "/MoveLand%20/index.html",
-    "static/media/search.svg": "/MoveLand%20/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.334bdeb1.css.map": "/MoveLand%20/static/css/main.334bdeb1.css.map",
-    "main.303cda5a.js.map": "/MoveLand%20/static/js/main.303cda5a.js.map"
+    "main.css": "/MoveLand/static/css/main.334bdeb1.css",
+    "main.js": "/MoveLand/static/js/main.0333cf10.js",
+    "index.html": "/MoveLand/index.html",
+    "static/media/search.svg": "/MoveLand/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/MoveLand/static/css/main.334bdeb1.css.map",
+    "main.0333cf10.js.map": "/MoveLand/static/js/main.0333cf10.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.303cda5a.js"
+    "static/js/main.0333cf10.js"
   ]
 }
